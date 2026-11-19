@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Snakemake
+results/*
+!results/.gitkeep
+.snakemake/
+
